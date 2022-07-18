@@ -1,0 +1,38 @@
+body {
+  background-color: #1f2937;
+  color: antiquewhite;
+  font-size: 30;
+}
+
+.header {
+  list-style-type: none;
+  margin: 0;
+  padding: 30px;
+  overflow: hidden;
+}
+ul {
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  display: inline;
+  padding: auto;
+  font-family: sans-serif;
+}
+
+li {
+  float: right;
+  display: inline;
+  padding: auto;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
