@@ -1,6 +1,6 @@
 body {
   background-color: #1f2937;
-  color: antiquewhite;
+  color: rgb(255, 255, 255);
   font-size: 30;
 }
 
@@ -16,7 +16,7 @@ ul {
   top: 0;
   display: inline;
   padding: auto;
-  font-family: sans-serif;
+  font-family: "Courier New", Courier, monospace;
 }
 
 li {
@@ -27,12 +27,12 @@ li {
 
 li a {
   display: block;
-  color: white;
+  color: rgb(255, 210, 210);
   text-align: center;
   padding: 14px 16px;
+  text-decoration: none;
+}
+.fluid-container{
+    
 }
 
-/* Change the link color to #111 (black) on hover */
-li a:hover {
-  background-color: #111;
-}
