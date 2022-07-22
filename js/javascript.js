@@ -2,6 +2,10 @@ let message;
 let x = (4 + 6 + 9) / 77;
 let a = 10;
 let b = a * 7;
+const max = 57;
+let actual = max - 13;
+
+console.log(actual);
 
 console.log(a);
 console.log(a * 9);
