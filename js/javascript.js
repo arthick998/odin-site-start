@@ -4,7 +4,7 @@ let a = 10;
 let b = a * 7;
 const max = 57;
 let actual = max - 13;
-const string = "the revolution will not be televised.";
+const string = 'the revolution will not be televised.';
 const badstring = string;
 
 
