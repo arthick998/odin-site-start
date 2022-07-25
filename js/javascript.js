@@ -26,3 +26,4 @@ console.log(23 + 97); //alert the message of additional
 console.log(x.toFixed(5)); //
 console.log(string); // string is been introduced
 console.log(badstring); // declared bad string
+
